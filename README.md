@@ -1,6 +1,6 @@
 <div align="center">
 
-![alt text](https://github.com/veter11111/vera/blob/main/file.png)
+![alt text](https://github.com/veter11111/veter11111/blob/main/file.png)
 
 
 
