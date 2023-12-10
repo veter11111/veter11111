@@ -4,7 +4,7 @@
 
 
 
-<h1> Привет, меня зовут<a href="https://daniilshat.ru/" target="_blank"> Вера</a> 
+<h1> Привет, меня зовут Вера
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
   
 <div>
